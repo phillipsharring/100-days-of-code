@@ -29,3 +29,13 @@
 
 **Link(s) to work**
 1. Proprietary hustle. [Here's the update tweet, though](https://twitter.com/phillipsharring/status/1204625328532000768)
+
+
+### Day 2: 11 December 2019, Wednesday
+
+**Today's Progress**: I extended the basic User class in App\User into App\Models\Employee, moved all of the custom relationships from App\User to App\Model\Employee, and updated any reference to App\User to App\Models\Employee in the relationships in other Models. Tweaked the relationship functions inside Employee so they work (since some key assumptions changed now that the class name changed; and some were just plain wrong). Made an endpoint for employees/{id}/reports to post a new report along w/ the Request, Dto & Action.
+
+**Thoughts** It's weird how Larave's compound routes something/{id}/child get named automatically, or I'm doing it wrong (likely), but it's appending the ".child" and leaving out the "something." But if you add 'as' => 'something.child' then it ends up 'something.child.child' so you just have to say 'as' => 'something,' which is somewhat unintuitive.
+
+**Link(s) to work**
+1. Proprietary hustle, still. [Here's the update tweet, though](https://twitter.com/phillipsharring/status/1204970946848870401)
