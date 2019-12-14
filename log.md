@@ -39,3 +39,16 @@
 
 **Link(s) to work**
 1. Proprietary hustle, still. [Here's the update tweet, though](https://twitter.com/phillipsharring/status/1204970946848870401)
+
+### Day 3: 12 December 2019, Thursday
+
+**Today's Progress**: Worked day job until the afternoon, then me and the soon-to-be mrs. got dolled up and drove the 3 hours to Charlotte for the day job company holiday party. Was a success. Grabbed dinner. Headed back the 3 hours. Got in around 1:40 and to sleep by about 2am. Upshot:  missed today.
+
+### Day 4: 13 December 2019, Friday
+
+**Today's Progress**: Super "jet lagged" from being up til 2 last night and back at work this morning. I created one and a half end-points. One for 'set manager' (the inverse of 'add report') and started work on 'create thought' endpoint, which will have some moving parts due to the multiple models that are rouched. Went almost an hour. Pooped out. Brain tracks could not hold trains of thought...
+
+**Thoughts** Very few at the moment :)
+
+**Link(s) to work**
+1. Proprietary hustle, still. [Here's the update tweet, though](https://twitter.com/phillipsharring/status/1205725144922112000)
