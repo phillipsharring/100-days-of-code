@@ -52,3 +52,12 @@
 
 **Link(s) to work**
 1. Proprietary hustle, still. [Here's the update tweet, though](https://twitter.com/phillipsharring/status/1205725144922112000)
+
+### Day 5: 14 December 2019, Saturday
+
+**Today's Progress**: Finished 'create thought'. Did 'add verison of thought' end point.
+
+**Thoughts** If we added demographics to "employees" in this thing, we could run queries like breakdowns of problems validated/rejected, positive/negative feedback, etc. by the demographics. Wondering how to make that work. If it should be optional or what. Definitely should be invisible in the interface except to the user filling out the demographic info and in the aggregate data. Could be an interesting tool for some conversations.
+
+**Link(s) to work**
+1. Proprietary hustle, still. [Here's the update tweet, though](https://twitter.com/phillipsharring/status/1206084938975592448)
