@@ -61,3 +61,12 @@
 
 **Link(s) to work**
 1. Proprietary hustle, still. [Here's the update tweet, though](https://twitter.com/phillipsharring/status/1206084938975592448)
+
+### Day 6: 15 December 2019, Sunday
+
+**Today's Progress**: Finished 'add version of thought'. Completed 'Add development to thought'. Realized the model/code for adding a development assumed the "sender" would always be who created the thought and fixed that.
+
+**Thoughts** Realized I didn't need a couple of the endpoints I had in my list. Don't need 'send thought' - because it's basically an alias of 'send development on thought,' and I don't need 'add verion of element' because that's handled in 'add version of thought...' Nice to not have to do those, but I want to go through the UI docs and see if I'm missing API endpoints. Had some innter turmoil about having the 'add a development' endpoint be just POST developments OR POST thoughts/{thought id}/developments and went with the latter because that URL space can have a few other HTTP verbs on it for stuff we'll need, like a list of developments on a given thought.
+
+**Link(s) to work**
+1. Proprietary hustle, still. [Here's the update tweet, though](https://twitter.com/phillipsharring/status/1206438698830749696)
