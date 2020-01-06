@@ -70,3 +70,47 @@
 
 **Link(s) to work**
 1. Proprietary hustle, still. [Here's the update tweet, though](https://twitter.com/phillipsharring/status/1206438698830749696)
+
+### Day 7 though 9: 15 December 2019, Sunday ... 27 December 2019 Friday
+
+**Today's Progress**: Worked on stuff 3 days out of this entire time period. Blew the challenge. Going to keep going, keep working, keep logging anyway.
+
+Day 7:  Went back over documentation to find statuses and created state classes for them. Looked at doing transitions. Read the code for @spatie_be‘s state & transition package. Went down a 'maybe I should be a product manager' rabbit hole...
+
+Day 8:  Did something stupid and lost all my model files. Ouch. Looked into doing recovery. Fn00b stepped in when I was tearing my hair out and helped out. She found slightly old by a few days versions of them. Definitely lost some stuff, but couldn't at the time figure out what it was.
+
+Many days pass here... Depression... Got kicked out of band... Holidays... etc.
+
+Day 9:  Returned to working on stuff. Wrote a tweet about getting back on the horse, but it sounded like a pity party, so I deleted it. The upshot is I'm going to keep going despite missing days and too bad if people don't like it. It's not our failures that define us, it's how quickly we pick our selves up and keep going. This was a major drop that I hope to not repeat.
+
+**Thoughts** Too numerous to mention.
+
+**Link(s) to work** None
+
+More days pass here... Getting past the depression... Found a new band...
+
+### What I'm Calling Day 10: 5 January 2020, Satruday
+
+Did my first CTF... Lots of problem solving. Writing scripts in Powershell which I've never done.
+
+**Link(s) to work**
+1. [Update tweet](https://twitter.com/phillipsharring/status/1214064680978829312)
+1. [Windows Log Analysis: Determine Attacker Technique](https://twitter.com/phillipsharring/status/1213614098090463234)
+1. [Windows Log Analysis: Evaluate Attack Outcome](https://twitter.com/phillipsharring/status/1213614071330885633)
+1. [Escape Ed Challenge](https://twitter.com/phillipsharring/status/1213614046106267653)
+1. [Found the Turtle Doves](https://twitter.com/phillipsharring/status/1213614019283685376) Not really a challenge, you just walk around and find them... but I _did it!_
+1. [Linux Path Challenge](https://twitter.com/phillipsharring/status/1213583414982524928)
+1. [X-Mas Cheer Laser Challenge](https://twitter.com/phillipsharring/status/1214066937707343872) INSANELY difficult, took many hints
+1. [Frosty Keypad Challenge](https://twitter.com/phillipsharring/status/1213583346942533633) I guessed
+1. [GreyLog Challenge](https://twitter.com/phillipsharring/status/1213583138628210688?s=20) super difficult for me
+
+### Day 11: 6 January 2020, Sunday
+
+**Today's Progress**: Re-ran my seeders and my requests that were saved in Postman and discovered some of the things that I lost when the model files got rolled back. Re-created most of it. Continued to work. Added a few more endpoints. Fixed a bunch of little things that I disovered through testing. Cleaned up the Seed data and the Postman requests so they kind of compliment each other. Postman stuff picks up where they seeds leave off.
+
+Unrelated to that project, I was looking around in GitHub and found a weird pull request. It's from their Dependabot. Notified me of some security vulnerabilities and outdated versions. Pretty neat. Merged one and resolved the other myself.
+
+**Thoughts** Was frustrated by having to recreate stuff, which is part of what I was depressed about up there... but I think I'm past that now and back to where I was and then some. Yeah, I missed more days in there. But I'm just going to go forward and count the next day when I get to it. I'm still shooting to get to 100 and I'm still going to try and do them consecutively. I have an intense urge to finish this dang thing and put it in front of people. Maybe it could be a product and I could quit the old day job eventually. I love where I'm working now, but I don't want to be at the whims of an employer any longer than necessary. I feel like for the work I've been doing I haven't made a lot of visible progress, since it's all API, which makes it feel like I'm not really accomplishing anything... but I know I am, and it will pay off when putting the front-end together. Just keep swimming...
+
+**Link(s) to work**
+1. Proprietary hustle, still. [Here's the update tweet, though](https://twitter.com/phillipsharring/status/1214065125512155136)
