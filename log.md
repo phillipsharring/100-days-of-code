@@ -114,3 +114,23 @@ Unrelated to that project, I was looking around in GitHub and found a weird pull
 
 **Link(s) to work**
 1. Proprietary hustle, still. [Here's the update tweet, though](https://twitter.com/phillipsharring/status/1214065125512155136)
+
+## 2020... Kind of a blur
+
+**Progress**: At least 200+ days of code at the day job in here. I wish I could say 50 good days of side hustle coding, but I don't think that's true, sadly. 30, maybe? Made slow, slow progress on that front. Was shooting for a working demo by April... annnd I'm still working on that. Got a new job in August, which was a _HUGE_ relief. Have really been challenged and grown as a developer since starting there. Got _way_ into containers. Got deeper into front-end. Learned some basic ReactJS. Got deeper into Symfony. Started seriously on AppSec w/ some books, esp. at Christmas time. Got _really_ into containers and finally grocked it. Basically I've stopped using Laragon all together.
+
+**Thoughts**: I mean, The Pandemic, am I right? Still hate Doctrine with a blind passion. Rough year. Got through it. Got married along the way, yay!
+
+## 2021
+
+**Progress this year so far**:  Finally figured out WSL, docker on WSL, and all that jazz. Loving it. Loving it loving it loving it. Will never go back. Fell out of love w/ InertiaJS and TailwindCSS (sorry, folks!) Learned NuxtJS. Been using it to revamp the side hustle and my personal site. Launched the personal site, hooray! Went back to having a separate front-end and a _real_ API for the side project. So, obviously, I'm leaving out a _lot_ of detail here, but that kind of brings us up to...
+
+Day...? I don't know? Let's call it... (checks notes) 12?!
+
+### Day 12: 23 February 2021, Tuesday
+
+**Today's Progress** Good day, and welcome to day twelve. Was sick today; didn't do the day job. Wanted to stay in bed. Tooth broke, though, so I had to hit the dentist :-( boo. I was kind of awake after that so I ended up doing some coding. I slapped together a landing page for a sort of "family/team" domain I have w/ my wife, and added a view source page to my shiny new personal NuxtJS website rebuild that I launched recently. I want to do an obligatory "how I redid my blog" post w/ info on what/how/why I did things the way I did. Anyways. Good to dust this off again, again, again for the upmteenth time...
+
+**Link(s) to work**
+1. The view source commit [36f9bbec](https://gitlab.com/phillipsharring/phillipharrington.com/-/commit/36f9bbecd02b265372069521cc8c1dd920b3a741).
+
