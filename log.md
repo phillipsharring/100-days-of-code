@@ -134,3 +134,13 @@ Day...? I don't know? Let's call it... (checks notes) 12?!
 **Link(s) to work**
 1. The view source commit [36f9bbec](https://gitlab.com/phillipsharring/phillipharrington.com/-/commit/36f9bbecd02b265372069521cc8c1dd920b3a741).
 
+### Day 13: 24 February 2021, Wednesday
+
+**Todays' Progress** worked on getting my wife's website back online with some basic NuxtJS Content module boilerplate. Went down a rabbit hole w/ Stylelint in WSL/PHPStorm.
+
+**Thoughts** Rabbit holes are a time suck. It's 10 already?!
+
+**Links to work**
+1. index.vue start [ccc901c5](https://gitlab.com/phillipsharring/fn00b.com/-/commit/ccc901c5822e951e5e4501d7c249d6bd85c929a7)
+1. Making styleint happy w/ my cobbled together normalize/tailwind preflight mashup [61bcd2f5](https://gitlab.com/phillipsharring/phillipharrington.com/-/commit/61bcd2f595b77b86867016e6de84b9e221d3ba1a)
+1. Stylelint fixes for components [0db172fb](https://gitlab.com/phillipsharring/phillipharrington.com/-/commit/0db172fb7620f567df08211498036b4781a788e7)
