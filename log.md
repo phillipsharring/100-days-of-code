@@ -154,3 +154,13 @@ Day...? I don't know? Let's call it... (checks notes) 12?!
 **Links to work**
 1. [f21f16f7](https://gitlab.com/phillipsharring/fn00b.com/-/commit/f21f16f7b1fa899616c0da3429e3b2dc623b2999)
 
+### Day 15: 26 February 2021, Friday
+
+**Today's Progress** More style & store work on the wife site. Got menus loading out of content into the menus store. Issues w/ routes. May have a solution.
+
+**Thoughts** Lots of these out of the box solutions make _everything soooo easy_ until you need something _slightly_ custom.
+
+**Links to work**
+
+1. [3dc923f2](https://gitlab.com/phillipsharring/fn00b.com/-/commit/3dc923f204c24831d35f8ff450cde9821cbebf77)
+
