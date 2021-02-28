@@ -164,3 +164,10 @@ Day...? I don't know? Let's call it... (checks notes) 12?!
 
 1. [3dc923f2](https://gitlab.com/phillipsharring/fn00b.com/-/commit/3dc923f204c24831d35f8ff450cde9821cbebf77)
 
+### Day 16: 27 February 2021, Saturday
+
+**Today's Progress** Fixed issue w/ the menus not appearing everywhere w/ middleware.
+
+**Links to work**
+
+1. [3dc923f2](https://gitlab.com/phillipsharring/fn00b.com/-/commit/848ab18256d95fd6561bbf7fdea121eb7dcd9f9a)
