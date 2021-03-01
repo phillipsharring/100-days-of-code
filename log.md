@@ -171,3 +171,13 @@ Day...? I don't know? Let's call it... (checks notes) 12?!
 **Links to work**
 
 1. [3dc923f2](https://gitlab.com/phillipsharring/fn00b.com/-/commit/848ab18256d95fd6561bbf7fdea121eb7dcd9f9a)
+
+### Day 17: 28 February 2021, Sunday
+
+**Today's Progress** Fixed some of the nav issues on the wife's site.
+
+**Links to work**
+
+Haven't pushed a commit today, sorry, but I made this zapier gitlab commit to tweet thing! Check it
+
+1. [GitLab → Twitter w/ #100DaysOfCode](https://zapier.com/shared/8a7ab1944ccdb26e16967d76e79e9951bc639ad2)
