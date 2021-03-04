@@ -181,3 +181,33 @@ Day...? I don't know? Let's call it... (checks notes) 12?!
 Haven't pushed a commit today, sorry, but I made this zapier gitlab commit to tweet thing! Check it
 
 1. [GitLab → Twitter w/ #100DaysOfCode](https://zapier.com/shared/8a7ab1944ccdb26e16967d76e79e9951bc639ad2)
+
+### Day 18: 1 March 2021, Monday
+
+**Today's Progress** Course work. Back to looking at [Adam Wathan's](https://adamwathan.me) [Advanced Vue Component Design](https://adamwathan.me/advanced-vue-component-design/).
+
+**Thoughts** I completely did not understand half of it the first time I slogged through it. This time, it's clicking. I have a massive use-case for a renderless component. I re-did several chapters in that area of the course. A couple more an I'm going to tackle my implementation.
+
+**Links to work** Nothing to link to today. Just me noodling around locally w/ Vue cli serve.
+
+### Day 19: 2 March 2021, Tuesday
+
+**Today's Progress** Finished up all the dynamic stuff + responsive menus and things for Mrs. Harrington's website. I have to slap her updated content in there.
+
+**Thoughts** This one has sat in various stages of "almost done" for a long time now. Feels good to get it out the door. Hosting it on Netlify.
+
+**Links to work**
+
+1. [Fn00b.com](https://fn00b.com) - again, updated content coming soon. But if you're interested in cyber security, check it out.
+
+### Day 20: 3 March 2021, Wednesday
+
+**Today's Progress** Started on an Advanced CSS Course on Udemy. Got through several sections including the part about CSS internals that was massively useful.
+
+**Thoughts** Again, like when I did the Beginning JavaScript course, this is stuff I wish I'd known 20 years ago. Hell, even 5. The course dives into a lot of animations and transitions, which is all stuff I've never really touched, but I'm getting comfortable with it through repetition.
+
+**Links to work**
+
+I've been committing my work as I follow along in a [new repo here](https://gitlab.com/phillipsharring/advanced-css-course). I accidentally commited my node_modules folder (whoops!) so I won't link to the latest commit (don't click it!) - but you can check out the repo.
+
+
