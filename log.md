@@ -210,4 +210,14 @@ Haven't pushed a commit today, sorry, but I made this zapier gitlab commit to tw
 
 I've been committing my work as I follow along in a [new repo here](https://gitlab.com/phillipsharring/advanced-css-course). I accidentally commited my node_modules folder (whoops!) so I won't link to the latest commit (don't click it!) - but you can check out the repo.
 
+### Day 21: 4 March 2021, Thursday
+
+**Today's Progress** Continued Advanced CSS Course. Got through several more sections. Learned a ton of stuff. Head is exploding.
+
+**Thoughts** So jazzed and excited to learn all this stuff. Makes me really feel a million times more confident w/ CSS stuff.
+
+**Links to work***
+
+1. [148634be](https://gitlab.com/phillipsharring/advanced-css-course/-/commit/148634be65a863f29e596de62cccf32a0dc4b86e)
+2. [Added wife's updated content to her site](https://gitlab.com/phillipsharring/fn00b.com/-/commit/f03cf146abd3eea9d0d8017a1eff99a86910f93e)
 
