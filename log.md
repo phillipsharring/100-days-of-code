@@ -247,3 +247,11 @@ Did a little bit more on the Advanced CSS Course, didn't push anything.
 
 **Thoughts** Most of the day taken up w/ house hunting. Riding around in a car all over 2 counties is pretty exhausting, it turns out! :)
 
+### Day 24: 7 March 2021, Sunday
+
+**Today's Progress** This [beginning JavaScript](https://wellpaidgeek.teachable.com/) course was on sale, so I figured what the heck. Made some progress on it. Nothing new, yet, just a refresher, but that's good. Looking forward to the part about Promises, as I still need to grok them better. Need to start a repo for my work and I'll start linking it.
+
+_And_ I got back to working on the side hustle proprietary thing. I'd been making more progress, but hadn't touched it for a couple of weeks. Came back to find it mysteriously in shambles. Got frustrated and went to bed. No links again, today, sorry.
+
+**Thoughts** Why did that happen? Probably something in not having logged out/logged back in and/or stopped/restarted the dev server in a while and I screwed up some routing thing that wasn't detected until a restart? Maybe? Seems unlikely - but _something_ happened :) Which is weird because, "Code doesn't rust."
+
