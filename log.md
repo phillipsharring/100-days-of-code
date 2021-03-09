@@ -238,3 +238,12 @@ Link(s) to work:
 Link(s) to work:
 
 1. [The last few commits here](https://gitlab.com/phillipsharring/phillipharrington.com/-/commits/main) cover the work on the menu, but you should probably just read the [resulting file around line 131](https://gitlab.com/phillipsharring/phillipharrington.com/-/blob/005b0afcc80d281149e7be572ad3690db4df95f2/components/layout/nav/main-menu.vue#L131).
+
+### Day 23: 6 March 2021, Saturday
+
+**Today's Progress**
+
+Did a little bit more on the Advanced CSS Course, didn't push anything.
+
+**Thoughts** Most of the day taken up w/ house hunting. Riding around in a car all over 2 counties is pretty exhausting, it turns out! :)
+
