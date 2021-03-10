@@ -260,3 +260,10 @@ _And_ I got back to working on the side hustle proprietary thing. I'd been makin
 **Today's Progress** Day job, obvs. At night, started a fresh project for the side hustle front-end piece and simply moved stuff from the old back into the new. Using VS Code, ESLint & Prettier as a build module this time so there's no surprises. 2 extra spaces? Won't build! Strict but I recommend it. Also removing the heavy Tailwind CSS usage in favor of using what I'm learning in the Advanced CSS Course :D. No links again, sorry. I'll link some stuff up tomorrow.
 
 **Thoughts** Clean code is clean. Ripping out Tailwind CSS from a 3rd project is nice, actually. I'm happier using SASS. And the build on Nuxt is _way, way, way_ faster without it. Maybe the 2.15 postcss 8 stuff will fix that, but it's not quite here yet.
+
+### Day 26: 9 March 2021, Tuesday
+
+**Today's Progress** Worked on the fresh-start of the side hustle. Moved it along. That's about it.
+
+**Thoughts** I want to stop rebuilding the parts that have been built 3 times and finish the parts that have never been done. That is all. No links today. I'll get the open source stuff up soon.
+
