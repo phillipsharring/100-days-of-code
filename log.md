@@ -231,7 +231,7 @@ Link(s) to work:
 
 ### Day 22: 5 March 2021, Friday
 
-**Today's Progress** Continued Advanced CSS Course, which is [here](https://www.udemy.com/course/advanced-css-and-sass/) by the way. Tried out some hover animation stuff on the nav in my [own website](https://phillipharrington.com)
+**Today's Progress** Continued Advanced CSS Course, which is [here](https://www.udemy.com/share/101WkwCUUccF9U/) by the way. Tried out some hover animation stuff on the nav in my [own website](https://phillipharrington.com)
 
 **Thoughts** The more I learn, the more I want to learn.
 
@@ -266,4 +266,14 @@ _And_ I got back to working on the side hustle proprietary thing. I'd been makin
 **Today's Progress** Worked on the fresh-start of the side hustle. Moved it along. That's about it.
 
 **Thoughts** I want to stop rebuilding the parts that have been built 3 times and finish the parts that have never been done. That is all. No links today. I'll get the open source stuff up soon.
+
+### Day 27: 10 March 2021, Wednesday
+
+**Today's Progress** Worked more on the fresh-start of the side hustle - it's almost back to where it was before it mysteriously broke, but this time w/ better Vuex store code since I figured out a bunch of stuff working on other stuff in the meantime.
+
+**Thoughts** Other stuff like yet another course I took in the meantime which I haven't mentioned: [Nuxt.js - Vue.js on Steroids](https://www.udemy.com/share/102092CUUccF9U/) Check it out!
+
+Link(s) to work: Can't share the side hustle stuff, of course, but I did publish the repo I've been doing the work for the JS in - enjoy:
+
+1. [JS Step by Step coursework repo](https://gitlab.com/phillipsharring/js-step-by-step)
 
