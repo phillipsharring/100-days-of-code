@@ -277,3 +277,18 @@ Link(s) to work: Can't share the side hustle stuff, of course, but I did publish
 
 1. [JS Step by Step coursework repo](https://gitlab.com/phillipsharring/js-step-by-step)
 
+### Day 28: 11 March 2021, Thursday
+
+**Today's Progress** More work on the side hustle. No links, sorry.
+
+### Day 29: 12 March 2021, Friday
+
+**Today's Progress** None. After work & dinner I knoked out in the recliner in the living room and slept and slept. Then I went to bed and slept and slept. Then I slept in the next morning. All the late nights caught up with me.
+
+### Day 29, take 2:  13 March 2021, Saturday
+
+**Today's Progress** The side hustle needs a little gauge that animates up from zero. So I made it in a code pen. Enjoy!
+
+Link(s) to work:
+
+1. [SCSS/JS Gauge Animating Up From Zero](https://codepen.io/phillipsharring/pen/ExNMjxR)
