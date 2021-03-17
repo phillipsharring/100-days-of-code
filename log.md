@@ -292,3 +292,19 @@ Link(s) to work: Can't share the side hustle stuff, of course, but I did publish
 Link(s) to work:
 
 1. [SCSS/JS Gauge Animating Up From Zero](https://codepen.io/phillipsharring/pen/ExNMjxR)
+
+### Day 30, 14 March 2021, Sunday
+
+**Today's Progress** worked on making [that codepen - which I've updated slightly](https://codepen.io/phillipsharring/pen/ExNMjxR) into a vue component w/ live data in my side hustle project.
+
+### Day 31, 15 March 2021, Monday
+
+**Today's Progress** Realized I couldn't really test my component because the data from the API was empty, because I never got around to making seeds for this particular data. So I worked on that all night. Side hustle; no links.
+
+### Day 32, 16 March 2021, Tuesday
+
+**Today's Progress** Took [Emma Bostian's](https://twitter.com/EmmaBostian) ["Code Challenges JavaScript"](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcode-challenges-javascript%3Ftrk%3Dshare_ent_url%26shareId%3Dubsi0nHLTo6j4PbTlbSTSw%253D%253D) course on LinkedIn learning. Someone shared a link and you could view the course for free (just no downloads and no certificate). I made a repo with my work in it.
+
+Link(s) to work:
+
+1. [Code Challenges JavaScript coursework repo](https://gitlab.com/phillipsharring/code-challenges-js)
