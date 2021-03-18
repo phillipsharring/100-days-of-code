@@ -308,3 +308,7 @@ Link(s) to work:
 Link(s) to work:
 
 1. [Code Challenges JavaScript coursework repo](https://gitlab.com/phillipsharring/code-challenges-js)
+
+### Day 33, 17 March 2021, Wednesday
+
+**Today's Progress** More side hustle stuff. Fixed the dashboard queries w/ the slightly altered data model (saved a whole sub query!). Big work on the layout. Animated a couple of CSS things for fun... No links today, sorry :)
